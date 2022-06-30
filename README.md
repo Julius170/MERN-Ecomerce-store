@@ -36,10 +36,10 @@ simple error was that was not connected to a very good internet connection. Is r
 o brainstorm when you have errors and also sometimes when you're not able to solve something before your partner can help you and solve it but I'm
 kind of sad it does not serve any global problem. In the front and we imported some react libraries which helped us with the design for example does library called react-toastify which helped us to create a loading box that spins when the product page is still loading he gives it a better experience
 
-#What inspired me to build the project
+# What inspired me to build the project
 i built it to give to a friend as a birthday  present
 
-#How to run the file
+# How to run the file
 After downloading the repository create your
  dirty my files and get your PayPal API your
 body by API key and also your cloud 9 API key
